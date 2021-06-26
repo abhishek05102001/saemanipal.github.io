@@ -551,7 +551,6 @@ figure {
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
-  table-layout: fixed;
   width: 100%;
 }
 
